@@ -7,12 +7,6 @@ This project involves an ESP32-based system for monitoring environmental paramet
 - [Components](#components)
 - [Circuit Diagram](#circuit-diagram)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Web Interface](#web-interface)
-- [LCD Display](#lcd-display)
-- [Data Logging](#data-logging)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Monitor temperature, humidity, pressure, IAQ, dew point, and altitude.
